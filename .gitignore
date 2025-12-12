@@ -1,0 +1,40 @@
+# Log files
+*.log
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell
+*.ps1.log
+*.ps1_*.log
+
+# Linux
+.DS_Store
+
+# Forensics output directories (optional - uncomment if you don't want to track these)
+# forensics-*/
+# hardening-*/
+# firewall-*/
+# service-*/
+
+# CSV reports (optional - uncomment if you don't want to track these)
+# *.csv
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.backup
+*.bak
+*.old
+
